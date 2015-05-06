@@ -8,11 +8,8 @@ To get started wwith sqlite (assuming it's installed):
 sqlite3 getting_started.db
 ```
 
-
-Then, populate the neccesary tables by running:
-
+Then execute:
 
 ```
-python populate_db.py
+python main.py
 ```
-
