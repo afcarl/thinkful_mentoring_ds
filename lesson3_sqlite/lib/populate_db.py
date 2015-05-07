@@ -42,6 +42,4 @@ def populate(connection):
         cur.executemany("INSERT INTO cities VALUES(?,?)", cities)
         cur.executemany("INSERT INTO weather VALUES(?,?,?,?,?)", weather)
 
-        cur.execute("SELECT * from cities")
-
 
