@@ -1,4 +1,4 @@
-Lesson 3: sqllite
+Lesson 3: sqlite
 ===================
 
 To get started wwith sqlite (assuming it's installed):
