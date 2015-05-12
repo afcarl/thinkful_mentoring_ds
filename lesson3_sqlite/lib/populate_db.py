@@ -26,6 +26,7 @@ weather = (
     ('Los Angeles', 2013, 'September', 'December', 75)
 )
 
+
 def populate(connection):
 
     # Inserting rows by passing values directly to `execute()`
